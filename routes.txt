@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Ruta Garza Sada",
+        "stops": [
+          { "name": "1: CETEC - Tec de Monterrey", "location": [-100.291454,25.650885], "minutes":"00:00" },
+          { "name": "2: Soriana parabús", "location": [-100.297005,25.660861], "minutes":"00:04" },
+          { "name": "3: Maderería el salto", "location": [-100.297159,25.665528], "minutes":"00:06" },
+          { "name": "4: Paseo Santa Lucía", "location": [-100.298699,25.67956], "minutes":"00:09" },
+          { "name": "5: 7-Eleven Parabús", "location": [-100.297222,25.663278], "minutes":"00:11" },
+          { "name": "6: Parabús Sur frente a Soriana", "location": [-100.297388,25.659903], "minutes":"00:12" },
+          { "name": "7: Rotonda Garza Sada", "location": [-100.292718,25.651576], "minutes":"00:14" },
+          { "name": "8: Av. Luis Elizondo", "location": [-100.290301,25.647774], "minutes":"00:16" },
+          { "name": "9: Starbucks/Plaza ALCE", "location": [-100.288287,25.644723], "minutes":"00:18" },
+          { "name": "10: Garza Sada 1892/ Puente Peatonal", "location": [-100.286295,25.641418], "minutes":"00:19" },
+          { "name": "11: Chili's Garza Sada", "location": [-100.282692,25.635686], "minutes":"00:21" },
+          { "name": "12: Fantasías Miguel", "location": [-100.280345,25.631980], "minutes":"00:22" },
+          { "name": "13 Don Colchón (Parabús)", "location": [-100.277472,25.627453], "minutes":"00:24"},
+          { "name": "14: 7-eleven Revolución", "location":[-100.275352,25.624006], "minutes":"00:26"},
+          { "name": "15: PrepaTec Eugenio Garza Lagüera", "location": [-100.275899,25.617412], "minutes":"00:30"},
+          { "name": "16: Puente peatonal Puerto Progreso", "location": [-100.280995,25.618754], "minutes":"00:33"},
+          { "name": "17: Banregio", "location": [-100.283910,25.620637], "minutes":"00:35"},
+          { "name": "18: BBVA", "location": [-100.284072,25.619885], "minutes":"00:36"},
+          { "name": "19: Banorte", "location":[-100.280670,25.617773], "minutes":"00:37"},
+          { "name": "20: 7-Eleven UANL Mederos", "location": [-100.275909,25.614749], "minutes":"00:38"},
+          { "name": "21: Paseo de los misterios", "location": [-100.269108,25.606507], "minutes":"00:43"},
+          { "name": "22: Desnivel salto del agua", "location": [-100.267999,25.604484], "minutes":"00:44"},
+          { "name": "23: Paseo de las Fuentes", "location": [-100.269551,25.608481], "minutes":"00:45"},
+          { "name": "24: HEB Revolución", "location": [-100.275923,25.625658], "minutes":"00:48"},
+          { "name": "25: El palmito", "location":[-100.278769,25.630081], "minutes":"00:50"},
+          { "name": "26: Puente peatonal Géminis", "location":[-100.279940,25.631969], "minutes":"00:51"},
+          { "name": "27: Banorte/ Constelaciones", "location":[-100.281123,25.633816], "minutes":"00:52"},
+          { "name": "28: Plaza la Silla", "location":[-100.282636,25.636182], "minutes":"00:53"},
+          { "name": "29: Soriana Contry", "location":[-100.284118,25.638705], "minutes":"00:55"},
+          { "name": "30: Telcel plaza contry", "location": [-100.284705,25.639589], "minutes":"00:56"},
+          { "name": "31: HEB Urban village", "location": [-100.285944,25.641538], "minutes":"00:57"},
+          { "name": "32: Cinépolis", "location": [-100.287170,25.643370], "minutes":"00:58"}
+        ]
+    },
+    {
+        "name": "Hospitales y Escuelas",
+        "stops": [
+          { "name": "1: CETEC - Tec de Monterrey", "location": [-100.291454,25.650885], "minutes": "00:00" },
+          { "name": "2: Metrorrey Estación Zaragoza", "location": [-100.310201, 25.667756], "minutes":"00:09"},
+          { "name": "3: Hospital San José", "location": [-100.351333,25.668585], "minutes":"00:21"},
+          { "name": "4: Hospital Zambrano", "location": [-100.333916,25.647542], "minutes":"00:31"},
+          { "name": "5: EGADE/Escuela de Gobierno", "location": [-100.326284, 25.643524], "minutes":"00:35"},
+          { "name": "6: Farmacias Guadalajara Río Nazas", "location": [-100.309882, 25.637183, "minutes":"00:40"]},
+          { "name": "7: Río Aguanaval/Río Nazas", "location":[-100.297136,25.643560], "minutes":"00:44"},
+          { "name": "8: Oxxo Río Pánuco", "location": [-100.294834, 25.646706], "minutes":"00:46"}
+        ]
+    },
+    {
+        "name": "Revolución",
+        "stops": [
+          { "name": "1: CETEC - Tec de Monterrey", "location": [-100.291454,25.650885], "minutes":"00:00"},
+          { "name": "2: Rectoría - Tec de Monterrey", "location": [-100.291973, 25.651725], "minutes":"00:02"},
+          { "name": "3: E1", "location": [-100.287399,25.653779], "minutes":"00:05"},
+          { "name": "4: Estadio Borregos", "location": [-100.284994,25.65310],"minutes":"00:06"},
+          { "name": "5: Parque La Primavera", "location":[-100.280783,25.652207],"minutes":"00:07"},
+          { "name": "6: Nuevo Sur", "location":[-100.276236,25.653214], "minutes":"00:11"},
+          { "name": "7: Benavides (José Alvarado)", "location": [-100.282029,25.660018],"minutes":"00:14"},
+          { "name": "8: Edificios Norte", "location":[-100.284153, 25.655910], "minutes":"00:17},
+          { "name": "9: E11", "location":[-100.284161,25.654983],"minutes":"00:18"},
+          { "name": "10: Alumnos Norte", "location": [-100.284844,25.651896], "minutes":"00:19"},
+          { "name": "11: Profesores Sur", "location":[-100.286055,25.650982], "minutes":"00:20"},
+          { "name": "12: Aulas IV", "location": [-100.289167, 25.648605], "minutes":"00:22"},
+          { "name": "13: El Borrego", "location": [-100.290283,25.648559], "minutes":"00:24"
+          }
+        ]
+    },
+    {
+        "name": "Valle Alto",
+        "stops": [
+          { "name": "1: HEB Valle Alto", "location":[-100.258200, 25.586811], "minutes":"00:30"},
+          { "name": "2: Soriana La Estanzuela", "location":[-100.585910, 25.256957], "minutes":"00:32"},
+          { "name": "3: Lateral Loma de los Pinos", "location":[-100.260589, 25.593166], "minutes":"00:33"},
+          { "name": "4: Oxxo Los Álamos", "location":[-100.260292, 25.595331], "minutes":"00:35"},
+          { "name": "5: Lago Erie", "location":[-100.265159, 25.600753], "minutes":"00:38"},
+          { "name": "6: CETEC - Tec de Monterrey", "location": [-100.291454,25.650885], "minutes":"00:00" },
+          { "name": "7: Walmart Las Torres", "location": [-100.271334,25.616057], "minutes":"00:10"},
+          { "name": "8: Paseo de los misterios", "location": [-100.269108,25.606507], "minutes":"00:13"},
+          { "name": "9: Puente Peatonal Calle San Francisco", "location": [-100.265828,25.600632], "minutes":"00:14"},
+          { "name": "10: Oxxo/Autozone", "location":[-100.263479, 25.597993], "minutes":"00:16"}
+        ]
+    }
